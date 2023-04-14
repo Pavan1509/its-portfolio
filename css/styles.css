@@ -1,0 +1,124 @@
+.top-container{
+    background-color: darkseagreen;
+    height: auto;
+    width: 100%;
+}
+h1{position: relative;
+    margin-top: 100px;
+    text-align: center;
+    font-family: Sacramento;
+    font-size: 4.68rem;
+    display: block;
+    line-height: 1;
+    color: #fff;
+}
+h4{
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+
+}
+.mountain{
+    height: auto;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.top-cloud{
+    position: relative;
+    margin-top: 120px;
+    margin-left: 65%;
+}
+.bottom-cloud{
+    display: inline;
+    float: left;
+    padding-left: 200px;
+
+}
+
+h2{
+    margin-top: 200px;
+    text-align: center;
+    line-height: 1;
+    font-size: 60px;
+    font-family: Merriweather;
+    color: #11999f;
+
+}
+.myimg{
+    border-radius: 50%;
+    height: 20%;
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.paragraph{
+    display: inline-block;
+    position: relative;
+    margin-left: 110px;
+    margin-right: auto;
+    font-size: 30px;
+}
+.images{
+    height: 15%;
+    width: 15%;
+    margin-left: 200px;
+    margin-right: auto;
+}
+h3{
+    margin-top: 200px;
+    margin-bottom: 100px;
+    text-align: center;
+    line-height: 1;
+    font-size: 60px;
+    font-family: Merriweather;
+    color: #11999f;
+
+}
+.likedin{
+    height: 5%;
+    width: 5%;
+    display: block;
+    margin-left: auto;
+    
+    margin-right: auto;
+
+
+}
+footer{
+    background-color: #11999f;
+    text-align: center;
+    height: 60px;
+    margin-top: 90px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+}
+/*
+@media screen and (max-width: 768px) and (min-width:0px)  {
+    body {
+      background-color:white;
+    }
+    h2{
+        font-size:10%;
+    }
+    .top-cloud{
+    padding: 10%;
+    }
+    .bottom-cloud{
+        padding: 10%;
+    }
+    .top-container{
+        width: 100%;
+        height: auto;
+                 
+
+    }
+  }/*
