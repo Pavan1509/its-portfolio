@@ -1,2 +1,2 @@
-console.log(2+3);
-document.write("Hello pavan");
+console.log(2-"2");
+console.log("A"-"A");
